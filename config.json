@@ -159,8 +159,8 @@
         "rx": [
             {
                 "index": 0,
-                "threads": 32,
-                "blocks": 44,
+                "threads": 8,
+                "blocks": 176,
                 "bfactor": 6,
                 "bsleep": 25,
                 "affinity": -1,
@@ -199,7 +199,7 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": " asia.randomx-hub.miningpoolhub.com",
+            "url": "asia.randomx-hub.miningpoolhub.com:20580",
             "user": "id.worker",
             "pass": "x",
             "rig-id": null,
